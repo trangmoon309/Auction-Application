@@ -31,3 +31,15 @@ D:\Udemy Build App\Carsties\src\AuctionService\obj\Debug\net7.0\refint\AuctionSe
 D:\Udemy Build App\Carsties\src\AuctionService\obj\Debug\net7.0\AuctionService.pdb
 D:\Udemy Build App\Carsties\src\AuctionService\obj\Debug\net7.0\AuctionService.genruntimeconfig.cache
 D:\Udemy Build App\Carsties\src\AuctionService\obj\Debug\net7.0\ref\AuctionService.dll
+D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\AutoMapper.dll
+D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\Humanizer.dll
+D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\Npgsql.dll
+D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\System.CodeDom.dll
