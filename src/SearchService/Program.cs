@@ -22,6 +22,7 @@ builder.Services.AddMassTransit(x =>
     
     x.UsingRabbitMq((context, cfg) => 
     {
+        // Retry vs TH bên consumer này bị fail somehow
         cfg.ReceiveEndpoint("search-auction-created", e => 
         {
             e.UseMessageRetry(r => r.Interval(5, 5));
