@@ -5,6 +5,7 @@ using AutoMapper;
 using AutoMapper.QueryableExtensions;
 using Contracts;
 using MassTransit;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -12,6 +13,7 @@ namespace AuctionSerice.Controllers;
 
 [ApiController]
 [Route("api/auctions")]
+[Authorize]
 public class AuctionsController : ControllerBase
 {
     private readonly AuctionDbContext _context;
@@ -53,7 +55,7 @@ public class AuctionsController : ControllerBase
     public async Task<ActionResult<AuctionDto>> CreateAuction(CreateAuctionDto auctionDto)
     {
         var auction = _mapper.Map<Auction>(auctionDto);
-        auction.Seller = "test";
+        auction.Seller = User.Identity.Name;
         auction.Winner = "jane";
 
         _context.Auctions.Add(auction);
@@ -78,6 +80,8 @@ public class AuctionsController : ControllerBase
 
         if(auction == null) return NotFound();
 
+        if(auction.Seller != User.Identity.Name) return Forbid();
+
         auction.Item.Make = auctionDto.Make ?? auction.Item.Make;
         auction.Item.Model = auctionDto.Model ?? auction.Item.Model;
         auction.Item.Color = auctionDto.Color ?? auction.Item.Color;
@@ -98,6 +102,8 @@ public class AuctionsController : ControllerBase
         var auction = await _context.Auctions.FindAsync(id);
 
         if(auction == null) return NotFound();
+
+        if(auction.Seller != User.Identity.Name) return Forbid();
 
         _context.Auctions.Remove(auction);
 

@@ -50,3 +50,10 @@ D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\RabbitMQ.Client.
 D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\Contracts.dll
 D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\Contracts.pdb
 D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\MassTransit.EntityFrameworkCoreIntegration.dll
+D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
