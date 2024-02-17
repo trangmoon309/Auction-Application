@@ -13,7 +13,6 @@ namespace AuctionSerice.Controllers;
 
 [ApiController]
 [Route("api/auctions")]
-[Authorize]
 public class AuctionsController : ControllerBase
 {
     private readonly AuctionDbContext _context;
@@ -52,6 +51,7 @@ public class AuctionsController : ControllerBase
     }
 
     [HttpPost]
+    [Authorize]
     public async Task<ActionResult<AuctionDto>> CreateAuction(CreateAuctionDto auctionDto)
     {
         var auction = _mapper.Map<Auction>(auctionDto);
@@ -72,6 +72,7 @@ public class AuctionsController : ControllerBase
     }
 
     [HttpPut("{id}")]
+    [Authorize]
     public async Task<ActionResult<AuctionDto>> UpdateAuction(Guid id, UpdateAuctionDto auctionDto)
     {
         var auction = await _context.Auctions
@@ -97,6 +98,7 @@ public class AuctionsController : ControllerBase
     }
 
     [HttpDelete("{id}")]
+    [Authorize]
     public async Task<ActionResult> DeleteAuction(Guid id)
     {
         var auction = await _context.Auctions.FindAsync(id);
