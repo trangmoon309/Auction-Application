@@ -43,3 +43,10 @@ D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\Mono.TextTemplat
 D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\Npgsql.dll
 D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\System.CodeDom.dll
+D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\MassTransit.dll
+D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\MassTransit.Abstractions.dll
+D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\MassTransit.RabbitMqTransport.dll
+D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\Contracts.dll
+D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\Contracts.pdb
+D:\Udemy Build App\Carsties\src\AuctionService\bin\Debug\net7.0\MassTransit.EntityFrameworkCoreIntegration.dll

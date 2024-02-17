@@ -1,0 +1,11 @@
+D:\Udemy Build App\Carsties\src\Contracts\bin\Debug\net7.0\Contracts.deps.json
+D:\Udemy Build App\Carsties\src\Contracts\bin\Debug\net7.0\Contracts.dll
+D:\Udemy Build App\Carsties\src\Contracts\bin\Debug\net7.0\Contracts.pdb
+D:\Udemy Build App\Carsties\src\Contracts\obj\Debug\net7.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy Build App\Carsties\src\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfoInputs.cache
+D:\Udemy Build App\Carsties\src\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfo.cs
+D:\Udemy Build App\Carsties\src\Contracts\obj\Debug\net7.0\Contracts.csproj.CoreCompileInputs.cache
+D:\Udemy Build App\Carsties\src\Contracts\obj\Debug\net7.0\Contracts.dll
+D:\Udemy Build App\Carsties\src\Contracts\obj\Debug\net7.0\refint\Contracts.dll
+D:\Udemy Build App\Carsties\src\Contracts\obj\Debug\net7.0\Contracts.pdb
+D:\Udemy Build App\Carsties\src\Contracts\obj\Debug\net7.0\ref\Contracts.dll

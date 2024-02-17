@@ -51,3 +51,9 @@ D:\Udemy Build App\Carsties\src\SearchService\bin\Debug\net7.0\Data\auctions.jso
 D:\Udemy Build App\Carsties\src\SearchService\bin\Debug\net7.0\Microsoft.Extensions.Http.Polly.dll
 D:\Udemy Build App\Carsties\src\SearchService\bin\Debug\net7.0\Polly.dll
 D:\Udemy Build App\Carsties\src\SearchService\bin\Debug\net7.0\Polly.Extensions.Http.dll
+D:\Udemy Build App\Carsties\src\SearchService\bin\Debug\net7.0\MassTransit.dll
+D:\Udemy Build App\Carsties\src\SearchService\bin\Debug\net7.0\MassTransit.Abstractions.dll
+D:\Udemy Build App\Carsties\src\SearchService\bin\Debug\net7.0\MassTransit.RabbitMqTransport.dll
+D:\Udemy Build App\Carsties\src\SearchService\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\Udemy Build App\Carsties\src\SearchService\bin\Debug\net7.0\Contracts.dll
+D:\Udemy Build App\Carsties\src\SearchService\bin\Debug\net7.0\Contracts.pdb
