@@ -1,5 +1,6 @@
 using AuctionSerice;
 using AuctionSerice.Data;
+using AuctionService;
 using MassTransit;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
