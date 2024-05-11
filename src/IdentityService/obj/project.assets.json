@@ -2552,11 +2552,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Udemy Build App\\Carsties\\src\\IdentityService\\IdentityService.csproj",
+      "projectUniqueName": "D:\\Udemy Build App\\Carsties\\src\\IdentityService\\IdentityService.csproj",
       "projectName": "IdentityService",
-      "projectPath": "d:\\Udemy Build App\\Carsties\\src\\IdentityService\\IdentityService.csproj",
+      "projectPath": "D:\\Udemy Build App\\Carsties\\src\\IdentityService\\IdentityService.csproj",
       "packagesPath": "C:\\Users\\trangnphuynh\\.nuget\\packages\\",
-      "outputPath": "d:\\Udemy Build App\\Carsties\\src\\IdentityService\\obj\\",
+      "outputPath": "D:\\Udemy Build App\\Carsties\\src\\IdentityService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\trangnphuynh\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2635,7 +2635,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }
